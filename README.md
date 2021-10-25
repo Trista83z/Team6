@@ -44,7 +44,7 @@
 ### 5.流暢的運行
 ---
 ## 功能分解圖(functional decomposition diagram, FDD)
-![FDD圖]()
+![FDD圖](https://github.com/Trista83z/Team6/blob/main/1025%E7%B3%BB%E7%B5%B1fdd.png)
 
 ## 需求分析的文字描述
 ### 1.用戶可以藉由這個網站找尋符合自己需求的酒吧
