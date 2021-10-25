@@ -55,6 +55,7 @@
 
 ---
 ## 使用案例圖
+![使用案例圖](https://github.com/Trista83z/Team6/blob/main/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B.jpeg)
 
 ## 使用案例說明
 |使用案例名稱|帳號設定|
