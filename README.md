@@ -92,7 +92,7 @@
 ![DFD圖](https://github.com/Trista83z/Team6/blob/main/%E7%B3%BB%E7%B5%B1%E7%92%B0%E5%A2%83%E5%9C%96(DFD).png)
 
 ## DFD圖0程序(需三項以上)
-![DFD圖0]()
+![DFD圖0](https://github.com/Trista83z/Team6/blob/main/DFD%E5%9C%960.jpeg)
 
 ---
 ## 活動圖
