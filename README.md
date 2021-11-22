@@ -95,6 +95,8 @@
 ![DFD圖0](https://github.com/Trista83z/Team6/blob/main/DFD%E5%9C%960.jpeg)
 
 ---
+## UML圖
+![UML圖]()
 ## 循環圖-使用案例1
 ![循環圖1](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E7%92%B0%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B1.png)
 ## 活動圖-使用案例1
@@ -103,3 +105,7 @@
 ![循環圖-2](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B2.png)
 ## 活動圖-使用案例2
 ![活動圖-2](https://github.com/Trista83z/Team6/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%96.png)
+## 循環圖-使用案例3
+![循環圖-3]()
+## 活動圖-使用案例3
+![活動圖-3]()
