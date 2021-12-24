@@ -122,3 +122,6 @@
 ![投影片8](https://user-images.githubusercontent.com/91454496/147367799-e7322754-ea38-4f0e-9279-2b3499741972.PNG)
 ![投影片9](https://user-images.githubusercontent.com/91454496/147367800-559a4992-630a-48c3-8658-b250dc574a7f.PNG)
 ![投影片10](https://user-images.githubusercontent.com/91454496/147367801-fcb646c2-6bff-4709-b9d7-f7346884ebca.PNG)
+
+## 實體關係圖
+![ERD](https://user-images.githubusercontent.com/91454496/147369046-67b4b597-9926-4bb1-bcda-62bf316ae761.png)
