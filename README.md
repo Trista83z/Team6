@@ -1,6 +1,6 @@
 # Team6
 
-## 題目：酒鬼地圖(待更改)
+## 題目：酒鬼地圖
 ### 內容摘要：為了想小酌的大學生解決找不到小酌的地點，我們要收集高雄的酒吧地點做出一個｢酒鬼地圖網站」
 
 
@@ -111,3 +111,14 @@
 ![活動圖-3](https://github.com/Trista83z/Team6/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B3.png)
 ---
 
+## 分鏡圖
+![投影片1](https://user-images.githubusercontent.com/91454496/147367788-3485bbc5-ba63-4d54-9b54-4e99ec1590b6.PNG)
+![投影片2](https://user-images.githubusercontent.com/91454496/147367789-3a6fd9cc-417c-4bfe-922d-7cb524a8956b.PNG)
+![投影片3](https://user-images.githubusercontent.com/91454496/147367791-5fb621e2-ecd6-4f96-a758-7b0ce2d78c44.PNG)
+![投影片4](https://user-images.githubusercontent.com/91454496/147367793-a243725f-976a-40ca-9b32-c81b20bf58b5.PNG)
+![投影片5](https://user-images.githubusercontent.com/91454496/147367795-fab34451-a504-461e-ad61-fd029aa0dcf6.PNG)
+![投影片6](https://user-images.githubusercontent.com/91454496/147367796-0e40153d-68b8-4624-98a8-c2b9c54163eb.PNG)
+![投影片7](https://user-images.githubusercontent.com/91454496/147367798-78fbf547-72b8-4392-bc80-ccee58d6405b.PNG)
+![投影片8](https://user-images.githubusercontent.com/91454496/147367799-e7322754-ea38-4f0e-9279-2b3499741972.PNG)
+![投影片9](https://user-images.githubusercontent.com/91454496/147367800-559a4992-630a-48c3-8658-b250dc574a7f.PNG)
+![投影片10](https://user-images.githubusercontent.com/91454496/147367801-fcb646c2-6bff-4709-b9d7-f7346884ebca.PNG)
