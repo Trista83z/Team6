@@ -112,16 +112,12 @@
 ---
 
 ## 分鏡圖
-![投影片1](https://user-images.githubusercontent.com/91454496/147367788-3485bbc5-ba63-4d54-9b54-4e99ec1590b6.PNG)
-![投影片2](https://user-images.githubusercontent.com/91454496/147367789-3a6fd9cc-417c-4bfe-922d-7cb524a8956b.PNG)
-![投影片3](https://user-images.githubusercontent.com/91454496/147367791-5fb621e2-ecd6-4f96-a758-7b0ce2d78c44.PNG)
-![投影片4](https://user-images.githubusercontent.com/91454496/147367793-a243725f-976a-40ca-9b32-c81b20bf58b5.PNG)
-![投影片5](https://user-images.githubusercontent.com/91454496/147367795-fab34451-a504-461e-ad61-fd029aa0dcf6.PNG)
-![投影片6](https://user-images.githubusercontent.com/91454496/147367796-0e40153d-68b8-4624-98a8-c2b9c54163eb.PNG)
-![投影片7](https://user-images.githubusercontent.com/91454496/147367798-78fbf547-72b8-4392-bc80-ccee58d6405b.PNG)
-![投影片8](https://user-images.githubusercontent.com/91454496/147367799-e7322754-ea38-4f0e-9279-2b3499741972.PNG)
-![投影片9](https://user-images.githubusercontent.com/91454496/147367800-559a4992-630a-48c3-8658-b250dc574a7f.PNG)
-![投影片10](https://user-images.githubusercontent.com/91454496/147367801-fcb646c2-6bff-4709-b9d7-f7346884ebca.PNG)
+![投影片1](https://user-images.githubusercontent.com/91454194/147425813-5e42133f-51af-485b-889d-3381e40056a7.PNG)
+![投影片2](https://user-images.githubusercontent.com/91454194/147425814-ebb52f4e-6773-4ddc-9293-b02b017e00ab.PNG)
+![投影片3](https://user-images.githubusercontent.com/91454194/147425815-73bd2a3b-a1ae-4463-97c6-b02de0bbbc64.PNG)
+![投影片4](https://user-images.githubusercontent.com/91454194/147425817-b70a3096-95f8-4551-9200-876444259bba.PNG)
+![投影片5](https://user-images.githubusercontent.com/91454194/147425818-3ca6fff2-f0ea-4b6f-85ae-8c38d8c6c557.PNG)
+
 
 ## 實體關係圖(ERD)
 ![ERD](https://user-images.githubusercontent.com/91454496/147369046-67b4b597-9926-4bb1-bcda-62bf316ae761.png)
