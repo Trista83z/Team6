@@ -9,10 +9,10 @@
 ## 組員&工作分配
 |學號|姓名|工作分配|
 |:---|:---:|:---|
-|C108118101|林亞芳|資料蒐集、網頁的設計圖、PERT/CPM圖|
-|C108118102|鄭郁娸|資料蒐集、網頁的設計圖、DFD圖、UML圖|
+|C108118101|林亞芳|資料蒐集、網頁的設計圖、PERT/CPM圖、循環圖|
+|C108118102|鄭郁娸|資料蒐集、網頁的設計圖、DFD圖、UML圖、活動圖、循環圖|
 |C108118110|嚴太成|資料蒐集、html css切前端版型|
-|C108118133|東宇娟|資料蒐集、html css切前端版型、DFD圖0|
+|C108118133|東宇娟|資料蒐集、html css切前端版型、DFD圖0、實體關係圖|
 |C108190154|楊鈞盛|資料蒐集、php後端跟資料庫、活動圖、循環圖|
 |C108193131|吳思穎（組長）|資料蒐集、php後端跟資料庫、甘特圖、DFD圖0、UML圖|
 
@@ -108,17 +108,21 @@
 ## UML類別圖
 ![UML圖](https://github.com/Trista83z/Team6/blob/main/UML%E9%A1%9E%E5%88%A5%E5%9C%96.png)
 ## 循環圖-使用案例1
-![循環圖1](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E7%92%B0%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B1.png)
+![循序圖1](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E7%92%B0%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B1.png)
 ## 活動圖-使用案例1
 ![活動圖1](https://github.com/Trista83z/Team6/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B1.png)
 ## 循環圖-使用案例2
-![循環圖-2](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B2.png)
+![循序圖-2](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B2.png)
 ## 活動圖-使用案例2
-![活動圖-2](https://github.com/Trista83z/Team6/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%96.png)
+![活動圖-2](https://github.com/Trista83z/Team6/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B2.png)
 ## 循環圖-使用案例3
-![循環圖-3](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E7%92%B0%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B3.png)
+![循序圖-3](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E7%92%B0%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B3.png)
 ## 活動圖-使用案例3
 ![活動圖-3](https://github.com/Trista83z/Team6/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B3.png)
+## 循環圖-使用案例4
+![循序圖-4](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B4.png)
+## 活動圖-使用案例4
+![活動圖-4](https://github.com/Trista83z/Team6/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B4.png)
 ---
 
 ## 分鏡圖
