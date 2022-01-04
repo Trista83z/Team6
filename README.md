@@ -106,7 +106,7 @@
 
 ---
 ## UML類別圖
-![UML圖](https://github.com/Trista83z/Team6/blob/main/UML%E5%9C%96.jpeg)
+![UML圖]()
 ## 循環圖-使用案例1
 ![循環圖1](https://github.com/Trista83z/Team6/blob/main/%E5%BE%AA%E7%92%B0%E5%9C%96-%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B1.png)
 ## 活動圖-使用案例1
